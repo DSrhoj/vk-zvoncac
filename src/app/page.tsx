@@ -117,7 +117,7 @@ export default function Home() {
                 src={siteConfig.mapEmbedUrl}
                 className="h-72 w-full border-0 grayscale-[20%] contrast-[1.05] sm:h-full sm:min-h-[22rem]"
                 loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
+                referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
               />
             </div>
@@ -163,7 +163,7 @@ export default function Home() {
               </h2>
               <p className="mt-6 text-lg leading-relaxed text-ink/80">
                 Imate pitanje o treninzima ili članstvu? Nazovite nas, pošaljite
-                email ili ispunite formu.
+                e-mail ili ispunite formu.
               </p>
 
               <dl className="mt-10 space-y-5">
@@ -182,7 +182,7 @@ export default function Home() {
                 </div>
                 <div>
                   <dt className="text-sm tracking-[0.18em] text-pool/70 uppercase">
-                    Email
+                    E-mail
                   </dt>
                   <dd className="mt-1">
                     <a

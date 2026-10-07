@@ -57,7 +57,7 @@ export function ContactForm() {
       </label>
 
       <label className="block">
-        <span className="text-sm font-medium text-ink">Email</span>
+        <span className="text-sm font-medium text-ink">E-mail</span>
         <input
           name="email"
           type="email"

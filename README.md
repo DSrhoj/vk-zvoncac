@@ -11,12 +11,12 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000). Copy `.env.example` to `.env.local` if you need environment variables.
 
-| Script | Purpose |
-| --- | --- |
-| `npm run dev` | Development server |
-| `npm run build` | Production build |
+| Script          | Purpose                    |
+| --------------- | -------------------------- |
+| `npm run dev`   | Development server         |
+| `npm run build` | Production build           |
 | `npm run start` | Serve the production build |
-| `npm run lint` | ESLint |
+| `npm run lint`  | ESLint                     |
 
 ## Vercel
 

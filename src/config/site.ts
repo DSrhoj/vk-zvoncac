@@ -11,8 +11,8 @@ export const siteConfig = {
   country: "Hrvatska",
   phone: "+385 98 937 9450",
   phoneHref: "tel:+385989379450",
-  email: "vkzvoncac@gmail.com",
-  emailHref: "mailto:vkzvoncac@gmail.com",
+  email: "vkzvoncac@yahoo.com",
+  emailHref: "mailto:vkzvoncac@yahoo.com",
   mapUrl: "https://maps.app.goo.gl/YzmMEEUCGPyg1C7m8",
   mapEmbedUrl:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.187216970182!2d16.42334640414438!3d43.5015392531311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1335675b914ed731%3A0x442fa929c068c09a!2sBazen%20Jadran!5e1!3m2!1sen!2shr!4v1791373069291!5m2!1sen!2shr",
