@@ -1,1 +1,32 @@
 @import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  /* Club palette: VK Zvončac Split */
+  --color-pool: #000dc4;
+  --color-deep: #000000;
+  --color-tide: #000dc4;
+  --color-foam: #eaf6ff;
+  --color-sand: #ffb500;
+  --color-sky: #a5dbff;
+  --color-club-red: #ff0004;
+  --color-ink: #000000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section[id] {
+  scroll-margin-top: 4.5rem;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
