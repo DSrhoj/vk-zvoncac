@@ -30,7 +30,7 @@ export default function Home() {
                 VK Zvončac
               </h1>
               <p className="mt-3 max-w-xl text-base text-white/90 sm:text-lg">
-                Vaterpolski klub s Jadranova bazena na Zvončacu.
+                Vaterpolski klub s bazena na Zvončacu.
               </p>
               <div className="mt-5 flex flex-wrap gap-3">
                 <a
@@ -89,7 +89,7 @@ export default function Home() {
                 Lokacija
               </p>
               <h3 className="font-display mt-3 text-3xl font-medium tracking-tight text-ink sm:text-4xl">
-                Bazen Jadran, Zvončac
+                Bazen Zvončac, Split
               </h3>
               <p className="mt-5 text-xl font-medium text-pool">
                 {siteConfig.address}

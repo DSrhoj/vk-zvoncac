@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "VK Zvončac",
   fullName: 'Vaterpolo klub "Zvončac" — Split',
   description:
-    "Vaterpolski klub iz Splita. Treninzi na Jadranovu bazenu na Zvončacu — Sustjepanski put 23.",
+    "Vaterpolski klub iz Splita. Treninzi na bazenu Zvončac — Sustjepanski put 23.",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
   locale: "hr",
   founded: 2013,
@@ -23,7 +23,7 @@ export const siteConfig = {
       { day: "Petak", time: "13:00h - 14:00h" },
     ],
     venueNote:
-      "Treninzi se održavaju na bazenu na bazenu Jadran na adresi Sustjepanski put 23, Split.",
+      "Treninzi se održavaju na bazenu Zvončac na adresi Sustjepanski put 23, Split.",
     membersNote:
       "Svi članovi kluba imaju pravo koristiti bazen u zadanom terminu za plivanje, rekreiranje i uživanje u dobrobitima vodenih sportova.",
   },
